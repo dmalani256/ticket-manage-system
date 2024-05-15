@@ -1,5 +1,3 @@
-import { notFound } from "next/navigation"
-
 export const dynamicParams = true // default val = true
 
 export async function generateStaticParams() {
