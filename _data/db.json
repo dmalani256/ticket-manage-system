@@ -1,0 +1,67 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Not in a rush or anything but we need to fix the foot link.",
+      "priority": "low",
+      "user_email": "dmalani65536@gmail.com"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "The styling for one of the webpages were pretty bad, so it would be a better option to have a stylesheet implemented",
+      "priority": "medium",
+      "user_email": "dmalani65536@gmail.com"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer links",
+      "body": "Ok we definetly need to fix that footer link as soon as possible",
+      "priority": "high",
+      "user_email": "dmalani65536@gmail.com"
+    },
+    {
+      "id": "4",
+      "title": "Fix the footer links",
+      "body": "Other than the other footer link, there is another one that needs to be fixed, but it can take some time.",
+      "priority": "low",
+      "user_email": "dmalani65536@gmail.com"
+    },
+    {
+      "id": "5",
+      "title": "htl",
+      "body": "sgyy5",
+      "priority": "low",
+      "user_email": "kgmg"
+    },
+    {
+      "id": "632598",
+      "title": "fix this one issue",
+      "body": "Hello need to fix this one issue",
+      "priority": "medium",
+      "user_email": "dmalani65536@gmail.com"
+    },
+    {
+      "id": "22",
+      "title": "fffff",
+      "body": "fffff",
+      "priority": "medium",
+      "user_email": "ffff"
+    },
+    {
+      "id": "ad0a",
+      "title": "Fix the header",
+      "body": "Fix the header on the website because it looks kind of wonky",
+      "priority": "medium",
+      "user_email": "dmalani256@gmail.com"
+    },
+    {
+      "id": "1c0f",
+      "title": "add delete button",
+      "body": "Please add a delete button for these tickets",
+      "priority": "low",
+      "user_email": "devm2001.256@gmail.com"
+    }
+  ]
+}
